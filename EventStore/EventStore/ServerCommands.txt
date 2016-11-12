@@ -1,0 +1,4 @@
+﻿
+cd C:\Projects\EventStore-OSS-Win-v3.9.2
+EventStore.ClusterNode.exe --db ./db --log ./logs
+
